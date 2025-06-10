@@ -1,4 +1,4 @@
-YouTube Video Summarizer and Hindi Translator
+## YouTube Video Summarizer and Hindi Translator
 This project automates the process of summarizing YouTube video content and translating it into Hindi. It combines modern NLP techniques with generative AI to offer concise, accessible summaries of video content for users who prefer to consume information in Hindi.
 
 🧠 Key Features
