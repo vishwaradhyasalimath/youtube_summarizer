@@ -49,3 +49,8 @@ Translation	Google Translate API (or similar)
 Summarization	Google Gemini AI
 Backend	Flask / FastAPI
 Frontend	Streamlit / HTML-CSS-JS
+
+![image](https://github.com/user-attachments/assets/307b1950-061b-410c-9add-1e242ed742ad)
+
+
+![Screenshot 2025-06-10 125114](https://github.com/user-attachments/assets/338b7779-1888-4643-b579-84ad024b4663)
