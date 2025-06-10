@@ -1,0 +1,9 @@
+youtube-transcript-api
+langchain-community
+google-generativeai
+faiss-cpu
+tiktoken
+python-dotenv
+streamlit
+pandas
+-e.
