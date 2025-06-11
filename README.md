@@ -1,20 +1,15 @@
-## YouTube Video Summarizer and Hindi Translator
+## YouTube Video Summarizer and Hindi Translator Using RAG
 This project automates the process of summarizing YouTube video content and translating it into Hindi. It combines modern NLP techniques with generative AI to offer concise, accessible summaries of video content for users who prefer to consume information in Hindi.
 
-🧠 Key Features
-📽️ Extracts video transcripts using youtube-transcript-api
+### Key Features
+ ->Extracts video transcripts using youtube-transcript-api
+ ->Semantic chunking and embedding using Hugging Face's sentence-transformers
+ ->Fast similarity search using FAISS vector database
+ ->Translation of text chunks to Hindi
+ ->Summary generation using Google Gemini AI
+ ->Simple and user-friendly web interface
 
-🔍 Semantic chunking and embedding using Hugging Face's sentence-transformers
-
-⚡ Fast similarity search using FAISS vector database
-
-🌐 Translation of text chunks to Hindi
-
-🤖 Summary generation using Google Gemini AI
-
-🖥️ Simple and user-friendly web interface
-
-📌 How It Works
+### How It Works
 1. Input
 User provides a YouTube video link.
 
@@ -40,15 +35,14 @@ Google Gemini AI generates a coherent summary or direct response in Hindi.
 7. Output
 The response is presented to the user via a simple web interface.
 
-🛠️ Technologies Used
-Component	Technology
-Transcript Extraction	youtube-transcript-api
-Embedding	Hugging Face sentence-transformers
-Vector Search	FAISS (Facebook AI Similarity Search)
-Translation	Google Translate API (or similar)
-Summarization	Google Gemini AI
-Backend	Flask / FastAPI
-Frontend	Streamlit / HTML-CSS-JS
+### Technologies Used Component	Technology
+->Transcript Extraction	youtube-transcript-api
+->Embedding	Hugging Face sentence-transformers
+->Vector Search	FAISS (Facebook AI Similarity Search)
+->Translation	Google Translate API (or similar)
+->Summarization	Google Gemini AI
+->Backend	Flask / FastAPI
+->Frontend	Streamlit / HTML-CSS-JS
 
 ![image](https://github.com/user-attachments/assets/307b1950-061b-410c-9add-1e242ed742ad)
 
