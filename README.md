@@ -42,9 +42,9 @@ The response is presented to the user via a simple web interface.
 ->Translation	Google Translate API (or similar)                           
 ->Summarization	Google Gemini AI                                  
 ->Backend	Flask                                                             
-->Frontend	Streamlit                                             
+->Frontend	Streamlit             
 
-"C:\Users\vishw\OneDrive\Pictures\Screenshot 2025-06-10 125035.png"
+![Screenshot 2025-06-10 125035](https://github.com/user-attachments/assets/c2efaca7-556f-44b1-ac57-954970d42fe5)
 
 
 ![Screenshot 2025-06-10 125114](https://github.com/user-attachments/assets/338b7779-1888-4643-b579-84ad024b4663)
