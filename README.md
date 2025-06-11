@@ -36,13 +36,13 @@ Google Gemini AI generates a coherent summary or direct response in Hindi.
 The response is presented to the user via a simple web interface.
 
 ### Technologies Used Component	Technology
-->Transcript Extraction	youtube-transcript-api
-->Embedding	Hugging Face sentence-transformers
-->Vector Search	FAISS (Facebook AI Similarity Search)
-->Translation	Google Translate API (or similar)
-->Summarization	Google Gemini AI
-->Backend	Flask / FastAPI
-->Frontend	Streamlit / HTML-CSS-JS
+->Transcript Extraction	youtube-transcript-api                                
+->Embedding	Hugging Face sentence-transformers                            
+->Vector Search	FAISS (Facebook AI Similarity Search)                           
+->Translation	Google Translate API (or similar)                           
+->Summarization	Google Gemini AI                                  
+->Backend	Flask                                                             
+->Frontend	Streamlit                                             
 
 ![image](https://github.com/user-attachments/assets/307b1950-061b-410c-9add-1e242ed742ad)
 
